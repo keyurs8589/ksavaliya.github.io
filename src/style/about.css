@@ -1,0 +1,19 @@
+h1 {
+  font-size: 6rem;
+  line-height: 5.5rem;
+}
+
+.description {
+  text-align: justify;
+}
+.resume-link a {
+  margin-top: 20px;
+  color: #bd5d38;
+}
+.fa-color {
+  font-size: 25px;
+  color: #868e96;
+}
+.fa-color:hover {
+  color: #bd5d38;
+}

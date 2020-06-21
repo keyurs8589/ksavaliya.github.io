@@ -1,0 +1,55 @@
+-1) NavBar component (NavBar have 1 Brand and 4 link)
+-    1.1) for, Large and above screen NavBar should be left - side bar
+-        1.1.1) Brand should be Image and horizontally centre.
+-        1.1.2) 4 link should be in row below Brand Image.
+-    1.2) for, below screen size Navbar should be horizontal / row render.
+-        1.2.1) Brand should be Name & On left side.
+-        1.2.1) 4 link should be in toggle button.
+-    1.1) NavBar Brand (Name / Image)
+-        1.1.1) for, Large and above screen NavBar should be left - side bar and brand should be Image.
+-        1.1.2) for, below screen size Navbar Brand should be Name.
+-    1.2) NavBar link
+-        1.2.1) for, large and above screen NavBar should be left - side bar and link should be in row.
+-        1.2.2) for, below screen size NavBar link should be toggle button.
+
+-2) Main component (Main component is having four section)
+-    Every Section is divided using horizontal rule.
+-    2.1)section 1 - About (IT is a new component)
+-        2.1.1) Name As <h1> Tag
+-        2.1.2) Email Id as <a> Tag
+-        2.1.3) Description as <p> Tag
+-    2.2)section 2 - Experience (IT is a new Component)
+-        2.2.1) Section Heading - as <h2> Tag. (It is a new component and reusable component)
+        2.2.2) Designation - as <h3> Tag. (It is a new component and reusable component)
+                2.2.2.1) It contains 
+                    - Designation
+                    - image for dropdown
+                    - company name
+                    - duration
+                    - un-order list for image of dropdown responsibility
+                    - Technical description
+                2.2.2.2) using Map method need to render this reusable component - Designation
+                    Array[{Designation: abc, 
+                    CompanyName: xyz, 
+                    Companywesitelink: xya.com, 
+                    duration: From&To, 
+                    Responsibility: [1,2,3,4], 
+                    technical description: [1,2,3,4]
+                    }]
+    2.3)section 3 - Technical skills (IT is a new Component)
+        2.3.1) Section Heading - as <h3> Tag. (reusable component)
+        2.3.2) using map method need to render technical skill array of object containing image address and its name
+            Array[{ImageAddress: abc/sdsd.jpg, 
+            ImageName: abc
+            },{},{},{}]
+    2.4)section 4 - Education
+        2.4.1) Section Heading - as <h3> Tag. (reusable component)
+        2.4.2) using map method need to render array of degree and university array of object.
+            Array[{degree: abc, 
+            university: abc
+            }, {}, {}, {}]
+
+pending:
+    - Navbar Expand over Context
+    - linkedIn Link and Github Link in about us.
+    - animation of toggle button

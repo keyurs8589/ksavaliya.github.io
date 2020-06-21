@@ -1,0 +1,134 @@
+{
+   "experience":[
+      {
+         "id":"1",
+         "designation":"Frontend Developer",
+         "companyName":"Let’s Nurture",
+         "duration":"June 2018 – October 2019",
+         "duty":[
+            "Implementing visual elements that users see and interact with in a web application",
+            "Building reusable components",
+            "Assure that all user input is validated before submitting to back-end",
+            "Collaborating and communicating with other team members",
+            "Building websites and apps that are responsive and usable."            
+         ],
+         "techStack":[
+            "Front end: React, HTML5, CSS3, Sass, Styled Components",
+            "Front end state management: Redux and React Context API",
+            "Source Control: GitHub"
+         ]
+      },
+      {
+         "id":"2",
+         "designation":"Junior Software Developer",
+         "companyName":"Let’s Nurture",
+         "duration":"September 2011 – May 2018",
+         "duty":[
+            "Learn the codebase, work on small bug fixes",
+            "Participate in paired programming with mid-level and senior developers",
+            "Contributing to development team meetings",
+            "Troubleshooting, patching computer code, and collaborating with other developers to create applications"
+         ],
+         "techStack":[
+            "Front end: React, HTML5, CSS3, Bootstrap"
+         ]
+      },
+      {
+         "id":"3",
+         "designation":"Developer Intern",
+         "companyName":"Let’s Nurture",
+         "duration":"September 2014 – August 2015",
+         "duty":[
+            "Running tests, debugging software, and documentation of codes",
+            "Clearly and regularly communicate with management and technical support colleagues."
+         ],
+         "techStack":[
+            "Frontend: HTML, CSS"
+         ]
+      }
+   ],
+   "technicalSkills":[
+      {
+         "id":"1",
+         "imageUrl":"./img/react.svg",
+         "imageName":"React"
+      },
+      {
+         "id":"2",
+         "imageUrl":"./img/redux.svg",
+         "imageName":"Redux"
+      },
+      {
+         "id":"3",
+         "imageUrl":"./img/angular.svg",
+         "imageName":"Angular"
+      },
+      {
+         "id":"4",
+         "imageUrl":"./img/node.svg",
+         "imageName":"Node"
+      },
+      {
+         "id":"5",
+         "imageUrl":"./img/sass.svg",
+         "imageName":"Sass"
+      },
+      {
+         "id":"6",
+         "imageUrl":"./img/webpack.svg",
+         "imageName":"Webpack"
+      },
+      {
+         "id":"7",
+         "imageUrl":"./img/confulence.svg",
+         "imageName":"Confulence"
+      },
+      {
+         "id":"8",
+         "imageUrl":"./img/rollup.svg",
+         "imageName":"Rollup"
+      },
+      {
+         "id":"9",
+         "imageUrl":"./img/selenium.png",
+         "imageName":"Selenium"
+      },
+      {
+         "id":"10",
+         "imageUrl":"./img/travis.svg",
+         "imageName":"Travis"
+      },
+      {
+         "id":"11",
+         "imageUrl":"./img/jira.svg",
+         "imageName":"Jira"
+      },
+      {
+         "id":"12",
+         "imageUrl":"./img/jest.svg",
+         "imageName":"Jest"
+      },
+      {
+         "id":"13",
+         "imageUrl":"./img/graphql.svg",
+         "imageName":"GraphQL"
+      },
+      {
+         "id":"14",
+         "imageUrl":"./img/puppetier.png",
+         "imageName":"Puppetier"
+      }
+   ],
+   "education":[
+      {
+         "id":"1",
+         "degree":"Master of Computer Science",
+         "university":"Indira Gandhi National Open University, India"
+      },
+      {
+         "id":"2",
+         "degree":"Bachelor of Computer Science",
+         "university":"Gujarat University, India"
+      }
+   ]
+}
